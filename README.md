@@ -9,12 +9,16 @@
 
 - 💬 Ask me about **Java,XML,SQLite,sql,firebase,android studio**
 
-- 📫 How to reach me **abubakarkhalid528@gmail.com**
+- 📫 How to reach me **anddev1142000@gmail.com**
 
 - ⚡ Fun fact **I think I am funny xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/14386266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14386266" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/14386266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14386266" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/14386266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14386266" height="30" width="40" /></a>
 </p>
 
