@@ -20,6 +20,12 @@
 <a href="https://twitter.com/its_b_a_k_a_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="14386266" height="30" width="40" /></a>
   
 <a href="https://www.instagram.com/its_b_a_k_a_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="14386266" height="30" width="40" /></a>
+  
+  
+  
+  
+<a href="https://stackoverflow.com/users/14860952" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="android" width="40" height="40"/> </a> <a href="https://twitter.com/its_b_a_k_a_r" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.instagram.com/its_b_a_k_a_r/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="figma" width="40" height="40"/> 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
