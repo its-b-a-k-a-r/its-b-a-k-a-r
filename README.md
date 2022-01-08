@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-khalid" /> </p>
 
-- 🔭 I’m currently working on **Food card**
+- 🔭 I’m currently working on **Food card**.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**.
 
-- 💬 Ask me about **Java,XML,SQLite,sql,firebase,android studio**
+- 💬 Ask me about **Java,XML,SQLite,sql,firebase,android studio**.
 
-- 📫 How to reach me **anddev1142000@gmail.com**
+- 📫 How to reach me **anddev1142000@gmail.com**.
 
-- ⚡ Fun fact **I think I am funny xd**
+- ⚡ Fun fact **I think I am funny xd**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
